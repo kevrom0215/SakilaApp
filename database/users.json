@@ -1,0 +1,17 @@
+[
+    {
+        "username": "kevrom0215",
+        "password": "imy",
+        "userType": "user"
+    },
+    {
+        "username": "xandycore",
+        "password": "12345",
+        "userType": "staff"
+    },
+    {
+        "username": "admin",
+        "password": "12345",
+        "userType": "staff"
+    }
+]
